@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/etms/static/css/main.58d61c29.css",
-    "main.js": "/etms/static/js/main.7688f476.js",
+    "main.js": "/etms/static/js/main.a3e604dc.js",
     "index.html": "/etms/index.html",
     "main.58d61c29.css.map": "/etms/static/css/main.58d61c29.css.map",
-    "main.7688f476.js.map": "/etms/static/js/main.7688f476.js.map"
+    "main.a3e604dc.js.map": "/etms/static/js/main.a3e604dc.js.map"
   },
   "entrypoints": [
     "static/css/main.58d61c29.css",
-    "static/js/main.7688f476.js"
+    "static/js/main.a3e604dc.js"
   ]
 }
